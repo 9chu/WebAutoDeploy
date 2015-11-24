@@ -9,7 +9,7 @@
 - 编译[tengine](https://github.com/alibaba/tengine)/[openresty](http://openresty.org/)并安装模块ngx\_lua\_module
 - 使用[luarocks](https://luarocks.org/)安装lua-cjson
 - 编译安装服务[sockproc](https://github.com/juce/sockproc)
-- 安装rusty第三方模块[lua-resty-shell](https://github.com/juce/lua-resty-shell)
+- 安装lua-resty模块[lua-resty-shell](https://github.com/juce/lua-resty-shell)
 
 ### 搭建环境
 
